@@ -5,3 +5,9 @@ ejercicios js fs
 
 1. punto 1
 2. punto 2
+
+**negrita**
+
+*cursiva*
+
+
